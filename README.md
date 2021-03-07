@@ -1,2 +1,3 @@
-# minecraft-compact-client
-Hack client for Minecraft.
+# Minecraft hack client
+
+Hacked client for Minecraft. 
