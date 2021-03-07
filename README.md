@@ -1,6 +1,7 @@
 # Minecraft hack client
 
-Hacked client for Minecraft 1.8. Version 1.0 written in two days
+Hacked client for Minecraft 1.8. Version 1.0 written in two days.
+Sorry for mixed brackets style in source code.
 
 # How to install
 
