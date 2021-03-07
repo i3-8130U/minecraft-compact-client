@@ -20,5 +20,3 @@ Fullbright - V,
 Killaura - K
 
 Important: Turn on NoFall to don't get fall damage when flying.
-
-P.S. Сорри фор май инглиш.
