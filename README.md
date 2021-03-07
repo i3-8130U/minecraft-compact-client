@@ -1,12 +1,10 @@
 # Minecraft hack client
 
 Hacked client for Minecraft 1.8. Version 1.0 written in two days.
-Sorry for mixed brackets style in source code.
 
 # How to install
 
-Download Compact_v1.0.zip and unpack folder from downloaded archive to %AppData%\\.minecraft\versions. Or you can compile it from source with Eclipse (type in youtube: how to
-compile MCP 1.8 with Eclipse).
+Download Compact_v1.0.zip and unpack folder from downloaded archive to %AppData%\\.minecraft\versions.
 
 
 # Instruction
