@@ -13,10 +13,10 @@ compile MCP 1.8 with Eclipse).
 
 You can move in menu with right/left/down/up arrows. You can change settings by pressing Enter.
 Cheat has built-in keybinds:
-Fly - F\n
-Sprint - Z\n
-NoFall - X\n
-Fullbright - V\n
+Fly - F,
+Sprint - Z,
+NoFall - X,
+Fullbright - V,
 Killaura - K
 
 Important: Turn on NoFall to don't get fall damage when flying.
