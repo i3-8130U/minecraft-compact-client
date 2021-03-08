@@ -22,11 +22,11 @@ Important: Turn on NoFall to don't get fall damage when flying.
 
 # Plans for 1.1 
 
-1. Keybinds in module settings. 
+1. ~~Keybinds in module settings.~~ 
 
-2. More settings for killaura and other modules. 
+2. More settings for killaura and other modules.
 
-3. More modules (Velocity, Autowalk, Fastplace etc.)
+3. More modules (Velocity, Autowalk, Fastplace etc.) (50%)
 
 4. (maybe) Improved TabGUI. 
 
