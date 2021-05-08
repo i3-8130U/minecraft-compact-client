@@ -1,3 +1,6 @@
+INFO
+Author lost sources of cheat, this repo will be deleted soon and replaced by Compact client 1.12.2.
+
 # Minecraft hack client
 
 Hacked client in retro style for Minecraft 1.8. 
