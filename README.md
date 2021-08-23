@@ -1,5 +1,6 @@
 # INFO
 Author lost sources of cheat, this repo will be deleted soon and replaced by Compact client 1.12.2.
+(no it willn't)
 
 # Minecraft hack client
 
